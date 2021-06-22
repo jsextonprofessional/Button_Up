@@ -1,6 +1,6 @@
 #search {
-    border-color: aquamarine ;
     border-radius: 15px;
+    border: 1px solid aquamarine;
     height: 30px;
     width: 140px;
     color: aquamarine;
