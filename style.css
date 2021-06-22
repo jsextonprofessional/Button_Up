@@ -1,0 +1,26 @@
+#search {
+    border-color: aquamarine ;
+    border-radius: 15px;
+    height: 30px;
+    width: 140px;
+    color: aquamarine;
+    background-color: lightgray ;
+}
+#plussign {
+    background-color: aqua;
+    color: white;
+    font-size: x-large;
+    border: none;
+    border-radius: 50% ;
+    height: 40px;
+    width: 40px;    
+}
+#createaccount {
+    box-shadow: 3px 2px 2px black;
+    border-color: black;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: medium;
+    height: 35px;
+    width: 150px;
+}
